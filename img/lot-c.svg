@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 330" role="img"><style>text{font-family:sans-serif}.lot{fill:#dcebdc;stroke:#1f4a38;stroke-width:3}.rd{fill:#c9c1b0}.rl{fill:#4f564e;font-size:13px;font-weight:bold}.dim{fill:#123527;font-size:17px;font-weight:bold}.nm{fill:#8a6d3b;font-size:13px;letter-spacing:2px;font-weight:bold}.sold{fill:#ecebe6;stroke:#b3ada1;stroke-width:2}.sd{fill:#8e8477;font-size:13px;font-weight:bold}</style><rect width="460" height="330" fill="#ffffff"/>
+<rect class="rd" x="20" y="30" width="44" height="200"/><text class="rl" x="28" y="130" transform="rotate(90 40 130)" text-anchor="middle">道路 8.0m</text>
+<rect class="rd" x="396" y="100" width="44" height="200"/><text class="rl" x="404" y="200" transform="rotate(90 416 200)" text-anchor="middle">道路 8.0m</text>
+<rect class="rd" x="64" y="240" width="332" height="44"/><text class="rl" x="230" y="267" text-anchor="middle">道路 6.0m</text>
+<path class="lot"  d="M64 60 L174.7 80 L174.7 233.3 L64 230 Z"/>
+<path class="sold" d="M174.7 80 L285.3 100 L285.3 236.7 L174.7 233.3 Z"/>
+<path class="lot"  d="M285.3 100 L396 120 L396 240 L285.3 236.7 Z"/>
+<text class="dim" x="119" y="150" text-anchor="middle">53.40坪</text>
+<text class="rl"  x="119" y="172" text-anchor="middle">C-1（西）角地</text>
+<text class="sd"  x="230" y="163" text-anchor="middle">成約済</text>
+<text class="dim" x="341" y="180" text-anchor="middle">53.40坪</text>
+<text class="rl"  x="341" y="202" text-anchor="middle">C-2（東）角地</text>
+<text class="nm" x="64" y="30">残り2区画・個別販売（各53.40坪／三方道路）</text></svg>

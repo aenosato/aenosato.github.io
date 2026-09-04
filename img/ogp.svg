@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#122b21"/><stop offset="1" stop-color="#2d6350"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect x="60" y="60" width="1080" height="510" fill="none" stroke="#b8862d" stroke-width="3"/>
+<text x="600" y="185" text-anchor="middle" fill="#c9b98a" font-family="sans-serif" font-size="32" letter-spacing="18">OFF-MARKET LAND</text>
+<text x="600" y="300" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="60" font-weight="bold">検索しても出てこない、</text>
+<text x="600" y="380" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="60" font-weight="bold">金沢の土地があります。</text>
+<text x="600" y="460" text-anchor="middle" fill="#dfe8e2" font-family="sans-serif" font-size="28">藤江北・西都｜84坪〜232坪｜ポータル非掲載・問い合わせ限定公開</text>
+<text x="600" y="530" text-anchor="middle" fill="#c9b98a" font-family="sans-serif" font-size="26">有限会社ジャパンサービス</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 330" role="img"><style>text{font-family:sans-serif}.lot{fill:#dcebdc;stroke:#1f4a38;stroke-width:3}.rd{fill:#c9c1b0}.rl{fill:#4f564e;font-size:13px;font-weight:bold}.dim{fill:#123527;font-size:17px;font-weight:bold}.nm{fill:#8a6d3b;font-size:13px;letter-spacing:2px;font-weight:bold}.sold{fill:#ecebe6;stroke:#b3ada1;stroke-width:2}.sd{fill:#8e8477;font-size:13px;font-weight:bold}</style><rect width="460" height="330" fill="#ffffff"/>
+<rect class="rd" x="330" y="20" width="46" height="250"/><text class="rl" x="336" y="150" transform="rotate(90 348 150)" text-anchor="middle">道路 6.1m</text>
+<rect class="rd" x="40" y="270" width="336" height="44"/><text class="rl" x="200" y="297" text-anchor="middle">歩道付き道路 11.5m</text>
+<rect class="lot" x="60" y="30" width="270" height="115"/>
+<rect class="lot" x="60" y="145" width="270" height="115"/>
+<text class="dim" x="195" y="82" text-anchor="middle">約69坪</text>
+<text class="dim" x="195" y="212" text-anchor="middle">約69坪</text>
+<text class="nm" x="60" y="20">全体 139.12坪（2区画分割可）</text></svg>
