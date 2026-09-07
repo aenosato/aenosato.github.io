@@ -5,13 +5,13 @@
 > 取引は指定仲介会社あえの里株式会社（石川県知事免許（1）第4580号）を通じて行う。TEL 076-267-8552
 
 ## 物件
-- [藤江北一丁目 A区画](https://kota0206h7-sketch.github.io/land/fujiekita-a.html): 金沢市藤江北一丁目、139.12坪。歩道のある通りに、南向きで暮らす。
-- [藤江北一丁目 B区画](https://kota0206h7-sketch.github.io/land/fujiekita-b.html): 金沢市藤江北一丁目、120.64坪。角地×隅切。車の出入りがしやすい120坪。
-- [西都二丁目 C-1・C-2区画](https://kota0206h7-sketch.github.io/land/saito-c.html): 金沢市西都二丁目、各53.40坪。西も東も、角地。
-- [西都二丁目 D区画](https://kota0206h7-sketch.github.io/land/saito-d.html): 金沢市西都二丁目、84.97坪。いちばん身近な、はじめての84坪。
-- [西都二丁目 E区画](https://kota0206h7-sketch.github.io/land/saito-e.html): 金沢市西都二丁目、232.96坪。232坪。この場所で、この広さは出ません。
+- [藤江北一丁目 A区画](https://aenosato.github.io/land/fujiekita-a.html): 金沢市藤江北一丁目、139.12坪。歩道のある通りに、南向きで暮らす。
+- [藤江北一丁目 B区画](https://aenosato.github.io/land/fujiekita-b.html): 金沢市藤江北一丁目、120.64坪。角地×隅切。車の出入りがしやすい120坪。
+- [西都二丁目 C-1・C-2区画](https://aenosato.github.io/land/saito-c.html): 金沢市西都二丁目、各53.40坪。西も東も、角地。
+- [西都二丁目 D区画](https://aenosato.github.io/land/saito-d.html): 金沢市西都二丁目、84.97坪。いちばん身近な、はじめての84坪。
+- [西都二丁目 E区画](https://aenosato.github.io/land/saito-e.html): 金沢市西都二丁目、232.96坪。232坪。この場所で、この広さは出ません。
 
 ## ページ
-- [よくある質問](https://kota0206h7-sketch.github.io/faq.html)
-- [お問い合わせ](https://kota0206h7-sketch.github.io/contact.html)
-- [会社概要](https://kota0206h7-sketch.github.io/company.html)
+- [よくある質問](https://aenosato.github.io/faq.html)
+- [お問い合わせ](https://aenosato.github.io/contact.html)
+- [会社概要](https://aenosato.github.io/company.html)
