@@ -73,6 +73,10 @@ table.cmp th,table.cmp td{padding:.8em 1em;border:1px solid var(--line);text-ali
 table.cmp thead th{background:var(--deep);color:#fff;letter-spacing:.1em}
 table.cmp td:first-child{background:#f1efe8;font-weight:600;text-align:left;width:11em}
 table.cmp td.good{color:var(--accent-d);font-weight:700}
+table.cmp.dist{min-width:0;table-layout:fixed}
+table.cmp.dist th{width:62%;text-align:left;font-weight:600;background:#f1efe8;word-break:keep-all}
+table.cmp.dist td{white-space:nowrap}
+@media(max-width:640px){table.cmp.dist{font-size:.82rem}table.cmp.dist th,table.cmp.dist td{padding:.7em .6em}html,body{max-width:100%;overflow-x:hidden}}
 .points{list-style:none;margin:1.2em 0}
 .points li{position:relative;padding:.5em 0 .5em 2.2em;font-size:.94rem;border-bottom:1px dashed var(--line)}
 .points li::before{content:"✓";position:absolute;left:.3em;top:.45em;color:var(--accent);font-weight:700;font-size:1.05rem}
