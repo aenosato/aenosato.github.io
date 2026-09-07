@@ -120,7 +120,7 @@ nav.g a.cta{display:inline-block;font-size:.78rem;padding:.55em 1em;margin-left:
 h1,h2.sec,.hero h1,.card h3,.area-hero h1{font-family:"Noto Serif JP","Yu Mincho",serif}
 .hero.photo{isolation:isolate;background:#17352a}
 .hero.photo .bg{position:absolute;inset:0;background-position:center 62%;background-size:cover;z-index:0;opacity:0;animation:heroShow 24s ease-in-out infinite}
-.hero.photo .bg1{background-image:url(/img/photo/hero.jpg);animation-delay:0s}
+.hero.photo .bg1{background-image:url(/img/photo/kencho_view.jpg);animation-delay:0s;background-position:center 55%}
 .hero.photo .bg2{background-image:url(/img/photo/station.jpg);animation-delay:8s;background-position:center 40%}
 .hero.photo .bg3{background-image:url(/img/photo/kencho.jpg);animation-delay:16s;background-position:center 30%}
 @keyframes heroShow{0%{opacity:0;transform:scale(1.06)}4%{opacity:1}33%{opacity:1}41%{opacity:0;transform:scale(1)}100%{opacity:0}}
