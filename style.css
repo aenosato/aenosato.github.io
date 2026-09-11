@@ -92,7 +92,7 @@ table.cmp td.good{color:var(--accent-d);font-weight:700}
 .modal-bg.show{display:flex}
 .modal{position:relative;background:#fff;border-radius:20px;max-width:440px;width:100%;padding:30px 26px 24px;text-align:center;animation:modal-in .3s ease}
 @keyframes modal-in{from{transform:scale(.94);opacity:0}}
-.modal h4{font-size:1.25rem;font-weight:700;line-height:1.5;margin-bottom:8px;color:var(--deep)}
+.modal h4{font-size:1.12rem;letter-spacing:.02em;font-weight:700;line-height:1.5;margin-bottom:8px;color:var(--deep)}
 .modal p{font-size:.9rem;color:#3c5249;margin-bottom:16px;line-height:1.8}
 .modal .btn{display:block;width:100%;text-align:center;box-shadow:none;margin-top:8px}
 .modal .later{display:inline-block;margin-top:14px;background:none;border:none;color:#6b7268;font-size:.8rem;text-decoration:underline;cursor:pointer}
