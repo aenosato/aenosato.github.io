@@ -15,6 +15,13 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&family=Noto+Serif+JP:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DY3NSJYX80"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-DY3NSJYX80');
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';
+if(h.indexOf('tel:')===0)gtag('event','tel_click',{page:location.pathname});
+else if(a.classList.contains('line-btn'))gtag('event','line_click',{page:location.pathname});
+else if(a.classList.contains('btn')||a.classList.contains('cta'))gtag('event','cta_click',{page:location.pathname,label:a.textContent.trim()});});</script>
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Product","name":"西都二丁目 E区画（未公開土地）",

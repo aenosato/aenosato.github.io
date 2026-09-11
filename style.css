@@ -73,6 +73,8 @@ table.cmp th,table.cmp td{padding:.8em 1em;border:1px solid var(--line);text-ali
 table.cmp thead th{background:var(--deep);color:#fff;letter-spacing:.1em}
 table.cmp td:first-child{background:#f1efe8;font-weight:600;text-align:left;width:11em}
 table.cmp td.good{color:var(--accent-d);font-weight:700}
+.btn.line-btn{background:#06C755;color:#fff;border-color:#06C755}.btn.line-btn:hover{background:#05b04c}
+.line-row{margin-top:1rem;text-align:center}.line-row small{display:block;margin-top:.4rem;color:#5c6560;font-size:.8rem}
 table.cmp.dist{min-width:0;table-layout:fixed}
 table.cmp.dist th{width:62%;text-align:left;font-weight:600;background:#f1efe8;word-break:keep-all}
 table.cmp.dist td{white-space:nowrap}
