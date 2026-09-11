@@ -75,6 +75,27 @@ table.cmp td:first-child{background:#f1efe8;font-weight:600;text-align:left;widt
 table.cmp td.good{color:var(--accent-d);font-weight:700}
 .btn.line-btn{background:#06C755;color:#fff;border-color:#06C755}.btn.line-btn:hover{background:#05b04c}
 .line-row{margin-top:1rem;text-align:center}.line-row small{display:block;margin-top:.4rem;color:#5c6560;font-size:.8rem}
+/* 固定CTA（スマホ）・ナッジ・離脱モーダル */
+.fixbar{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;gap:8px;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:rgba(255,255,255,.97);border-top:1px solid var(--line)}
+.fixbar .btn{flex:1;padding:.9em .5em;font-size:.9rem;border-radius:12px;box-shadow:none;letter-spacing:.04em;text-align:center}
+@media(min-width:768px){.fixbar{display:none}}
+@media(max-width:767px){body{padding-bottom:78px}}
+.nudge{position:fixed;right:14px;bottom:14px;z-index:70;background:#fff;border-radius:16px;box-shadow:0 14px 44px rgba(8,40,32,.32);border:1px solid var(--line);padding:18px 18px 16px;width:min(340px,calc(100vw - 28px));display:none}
+.nudge.show{display:block;animation:nudge-up .35s ease}
+@keyframes nudge-up{from{transform:translateY(18px);opacity:0}}
+@media(max-width:767px){.nudge{left:14px;right:14px;width:auto;bottom:calc(88px + env(safe-area-inset-bottom))}}
+.nudge h4{font-size:1rem;font-weight:700;margin-bottom:4px;padding-right:28px;color:var(--deep)}
+.nudge p{font-size:.84rem;color:#3c5249;margin-bottom:12px;line-height:1.7}
+.nudge .btn{width:100%;text-align:center;padding:.8em 1em;font-size:.95rem;border-radius:12px;box-shadow:none}
+.pop-close{position:absolute;top:10px;right:10px;width:30px;height:30px;border:none;background:#eef3f1;border-radius:50%;cursor:pointer;font-size:15px;line-height:1;color:#43584f;font-weight:700}
+.modal-bg{position:fixed;inset:0;z-index:80;background:rgba(8,32,26,.58);display:none;align-items:center;justify-content:center;padding:20px}
+.modal-bg.show{display:flex}
+.modal{position:relative;background:#fff;border-radius:20px;max-width:440px;width:100%;padding:30px 26px 24px;text-align:center;animation:modal-in .3s ease}
+@keyframes modal-in{from{transform:scale(.94);opacity:0}}
+.modal h4{font-size:1.25rem;font-weight:700;line-height:1.5;margin-bottom:8px;color:var(--deep)}
+.modal p{font-size:.9rem;color:#3c5249;margin-bottom:16px;line-height:1.8}
+.modal .btn{display:block;width:100%;text-align:center;box-shadow:none;margin-top:8px}
+.modal .later{display:inline-block;margin-top:14px;background:none;border:none;color:#6b7268;font-size:.8rem;text-decoration:underline;cursor:pointer}
 table.cmp.dist{min-width:0;table-layout:fixed}
 table.cmp.dist th{width:62%;text-align:left;font-weight:600;background:#f1efe8;word-break:keep-all}
 table.cmp.dist td{white-space:nowrap}
